@@ -143,7 +143,7 @@ currently:    Exploring cloud-native + DevOps ☁️
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedang456&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedang456&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=900" />
 
 </div>
 

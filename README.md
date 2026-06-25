@@ -4,7 +4,6 @@
 <!-- ====================== TYPING ANIMATION ====================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=3B8686&center=true&vCenter=true&width=620&lines=Final-year+CSE+%40+Pune+%F0%9F%87%AE%F0%9F%87%B3;Full-stack+engineer+%E2%80%94+Web3%2C+AI%2FRAG%2C+DevOps;I+ship+end-to-end%2C+from+contracts+to+clusters)](https://git.io/typing-svg)
 
 <!-- ====================== SOCIAL BADGES ====================== -->
 <a href="https://www.linkedin.com/in/vedang-limaye2004/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
